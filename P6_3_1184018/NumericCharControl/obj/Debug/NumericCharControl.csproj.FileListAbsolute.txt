@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2015\Projects\P6_3_1184018\NumericCharControl\bin\Debug\NumericCharControl.dll
+c:\users\asus\documents\visual studio 2015\Projects\P6_3_1184018\NumericCharControl\bin\Debug\NumericCharControl.pdb
+c:\users\asus\documents\visual studio 2015\Projects\P6_3_1184018\NumericCharControl\obj\Debug\NumericCharControl.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\P6_3_1184018\NumericCharControl\obj\Debug\NumericCharControl.dll
+c:\users\asus\documents\visual studio 2015\Projects\P6_3_1184018\NumericCharControl\obj\Debug\NumericCharControl.pdb
